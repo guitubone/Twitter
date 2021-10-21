@@ -1,0 +1,281 @@
+.root {
+  display: flex;
+  height: auto;
+  flex-direction: row;
+  position: relative;
+  padding: 10px 16px;
+  border-bottom: 1px solid rgb(204, 214, 221) /* plasmic-token: BIrI8kd8DYMr */;
+}
+.freeBox__se1Jf {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 59px;
+  height: auto;
+  left: auto;
+  top: auto;
+  flex-shrink: 0;
+}
+.freeBox__se1Jf > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  margin-top: calc(0px - 5px);
+  height: calc(100% + 5px);
+}
+.freeBox__se1Jf > :global(.__wab_flex-container) > *,
+.freeBox__se1Jf > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__se1Jf > :global(.__wab_flex-container) > picture > img,
+.freeBox__se1Jf
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 5px;
+}
+.freeBox___8OVgb {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  top: auto;
+  left: auto;
+  height: 100%;
+  min-height: 0;
+}
+.freeBox___8OVgb > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(0px - 5px);
+  height: calc(100% + 5px);
+}
+.freeBox___8OVgb > :global(.__wab_flex-container) > *,
+.freeBox___8OVgb > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___8OVgb > :global(.__wab_flex-container) > picture > img,
+.freeBox___8OVgb
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 5px;
+}
+.img__yRMxB {
+  object-fit: cover;
+  width: 49px;
+  height: 49px;
+  position: relative;
+  border-radius: 50%;
+}
+.img__yRMxB > picture > img {
+  object-fit: cover;
+}
+.img__yRMxB > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox__biBgc {
+  display: block;
+  position: relative;
+  width: 2px;
+  height: 100%;
+  left: auto;
+  top: auto;
+  background: rgb(205, 214, 221);
+  min-height: 0;
+}
+.freeBox__g7EoM {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  left: auto;
+  top: auto;
+  min-width: 0;
+}
+.freeBox__g7EoM > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 2px);
+  height: calc(100% + 2px);
+}
+.freeBox__g7EoM > :global(.__wab_flex-container) > *,
+.freeBox__g7EoM > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__g7EoM > :global(.__wab_flex-container) > picture > img,
+.freeBox__g7EoM
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 2px;
+}
+.freeBox__p26Gy {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  top: auto;
+  left: auto;
+}
+.freeBox__bnq4 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.freeBox__bnq4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox__bnq4 > :global(.__wab_flex-container) > *,
+.freeBox__bnq4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__bnq4 > :global(.__wab_flex-container) > picture > img,
+.freeBox__bnq4
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 5px;
+}
+.freeBox__b8F2E {
+  position: relative;
+  left: auto;
+  top: auto;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__oWyGp {
+  display: flex;
+  position: relative;
+}
+.slotTargetName {
+  font-weight: 700;
+}
+.freeBox__n4Wk {
+  position: relative;
+  left: auto;
+  top: auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetUsername {
+  color: rgb(101, 119, 134) /* plasmic-token: taL3xU_Gn-jV */;
+  white-space: pre;
+}
+.slotTargetUsername > .__wab_text,
+.slotTargetUsername > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_text,
+.slotTargetUsername > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetUsername > .__wab_slot > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetUsername
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-overflow: ellipsis;
+}
+.text {
+  position: relative;
+  left: auto;
+  top: auto;
+  color: rgb(101, 119, 134) /* plasmic-token: taL3xU_Gn-jV */;
+}
+.slotTargetTimestamp {
+  color: rgb(101, 119, 134) /* plasmic-token: taL3xU_Gn-jV */;
+}
+.actionButton__rd10:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.svg__ee3Yl {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  color: rgb(101, 119, 134) /* plasmic-token: taL3xU_Gn-jV */;
+  left: auto;
+  top: auto;
+}
+.freeBox___0Pplk {
+  display: inline-flex;
+  position: relative;
+  width: auto;
+}
+.freeBox__hOfP {
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  left: auto;
+  top: auto;
+  margin-top: calc(4px + 2px) !important;
+  max-width: 500px;
+}
+.actionButton__lxi9P:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__fwY4B {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton__r2ZUa:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__wRwqm {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton__oGl9T:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}
+.svg__xtroz {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}
+.actionButton__bQu9W:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.svg___9K7Ca {
+  position: relative;
+  object-fit: cover;
+  width: 19px;
+  height: 19px;
+  left: auto;
+  top: auto;
+}

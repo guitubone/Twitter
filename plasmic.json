@@ -1,0 +1,393 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+      "projectApiToken": "gzfdr272sfLMUmgUOflRY5BtGj147Kte2XoJsX5aY5ZMlMScdzLNAdvtFx6vOS6skwW722JvpzL0aIVFHUvkrQ",
+      "projectName": "Twitter",
+      "version": "latest",
+      "cssFilePath": "plasmic/twitter/plasmic_twitter.module.css",
+      "components": [
+        {
+          "id": "yAu2w-50fbH",
+          "name": "Feed",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicFeed.tsx",
+          "importSpec": {
+            "modulePath": "Feed.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicFeed.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "IyIs__-7z4p",
+          "name": "ActionButton",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicActionButton.tsx",
+          "importSpec": {
+            "modulePath": "ActionButton.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicActionButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "BH7mdVRR6kf",
+          "name": "Tweet",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicTweet.tsx",
+          "importSpec": {
+            "modulePath": "Tweet.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicTweet.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "bv_MRIPv_2ll",
+          "name": "Avatar",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicAvatar.tsx",
+          "importSpec": {
+            "modulePath": "Avatar.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicAvatar.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "4U7GBFidZD-Z",
+          "name": "Spacer",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicSpacer.tsx",
+          "importSpec": {
+            "modulePath": "Spacer.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicSpacer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "T8T_aZ-pF5ms",
+          "name": "Trend",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicTrend.tsx",
+          "importSpec": {
+            "modulePath": "Trend.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicTrend.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "3gQqlFL5ZW_W",
+          "name": "SideSection",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicSideSection.tsx",
+          "importSpec": {
+            "modulePath": "SideSection.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicSideSection.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "i-ypZPxxmHq7",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicButton.tsx",
+          "importSpec": {
+            "modulePath": "Button.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "WACyS-tsqYl2",
+          "name": "Suggestion",
+          "type": "managed",
+          "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+          "renderModuleFilePath": "plasmic/twitter/PlasmicSuggestion.tsx",
+          "importSpec": {
+            "modulePath": "Suggestion.tsx"
+          },
+          "cssFilePath": "plasmic/twitter/PlasmicSuggestion.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        }
+      ],
+      "icons": [
+        {
+          "id": "vitDHM3COZzM",
+          "name": "MagicIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Magic.tsx"
+        },
+        {
+          "id": "7y1qa6ONnzak",
+          "name": "ReplyIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Reply.tsx"
+        },
+        {
+          "id": "qw8SmQ32WFCL",
+          "name": "RetweetIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Retweet.tsx"
+        },
+        {
+          "id": "68dmfSKZnYN6",
+          "name": "LikeIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Like.tsx"
+        },
+        {
+          "id": "P5srEezaCB97",
+          "name": "ShareIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Share.tsx"
+        },
+        {
+          "id": "YXue6X8gtEfm",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "eRR9GJDxmbP6",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector.tsx"
+        },
+        {
+          "id": "Id1TTdItoPeX",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector2.tsx"
+        },
+        {
+          "id": "AmWf9xdQq-e1",
+          "name": "Vector3Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector3.tsx"
+        },
+        {
+          "id": "-KsF0Rft_Unj",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector4.tsx"
+        },
+        {
+          "id": "41QU5_Adhm-Y",
+          "name": "Vector5Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector5.tsx"
+        },
+        {
+          "id": "1mbKSDkdUB17",
+          "name": "Vector6Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector6.tsx"
+        },
+        {
+          "id": "YseLkJjiHfZt",
+          "name": "Vector7Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector7.tsx"
+        },
+        {
+          "id": "woyo0VCQj8K7",
+          "name": "Vector8Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Vector8.tsx"
+        },
+        {
+          "id": "7zmOerdQkk5W",
+          "name": "HomeActiveIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__HomeActive.tsx"
+        },
+        {
+          "id": "-wi-qGwB3JxI",
+          "name": "SearchActiveIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__SearchActive.tsx"
+        },
+        {
+          "id": "mgzT6KRXTMkZ",
+          "name": "HomeIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Home.tsx"
+        },
+        {
+          "id": "Z2ShTdodBXQy",
+          "name": "NotificationsIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Notifications.tsx"
+        },
+        {
+          "id": "0laxwXH72Mog",
+          "name": "MessagesIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Messages.tsx"
+        },
+        {
+          "id": "0s9wvHHHLh0D",
+          "name": "SearchIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Search.tsx"
+        },
+        {
+          "id": "GzZFO5BZh8Ze",
+          "name": "NotificationsActiveIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__NotificationsActive.tsx"
+        },
+        {
+          "id": "yUbVhiq5JlYs",
+          "name": "MessagesActiveIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__MessagesActive.tsx"
+        },
+        {
+          "id": "Dbe69f6YScP3",
+          "name": "TwitterIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Twitter.tsx"
+        },
+        {
+          "id": "GNJW3xqyvyld",
+          "name": "Icon2Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon2.tsx"
+        },
+        {
+          "id": "t81Q1bWpOEDO",
+          "name": "BookmarksIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Bookmarks.tsx"
+        },
+        {
+          "id": "am13N2SVLTO2",
+          "name": "ListsIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Lists.tsx"
+        },
+        {
+          "id": "6Cd850r_u2Qo",
+          "name": "ProfileIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Profile.tsx"
+        },
+        {
+          "id": "_KRBM1jHguuU",
+          "name": "MoreIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__More.tsx"
+        },
+        {
+          "id": "1Jh8FkMX_bUS",
+          "name": "PictureIcon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Picture.tsx"
+        },
+        {
+          "id": "il0py2bxhpYR",
+          "name": "Icon3Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon3.tsx"
+        },
+        {
+          "id": "OJsUog-ZyqoF",
+          "name": "Icon4Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon4.tsx"
+        },
+        {
+          "id": "kJRLwpVtlCt7",
+          "name": "Icon5Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon5.tsx"
+        },
+        {
+          "id": "yNc3dVM6EKdH",
+          "name": "Icon6Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon6.tsx"
+        },
+        {
+          "id": "B9-i7VmNPpaA",
+          "name": "Icon7Icon",
+          "moduleFilePath": "plasmic/twitter/icons/PlasmicIcon__Icon7.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "ev9XLgxOEr9m",
+          "name": "image",
+          "filePath": "plasmic/twitter/images/image.png"
+        },
+        {
+          "id": "K8LG82aeygQu",
+          "name": "image 2",
+          "filePath": "plasmic/twitter/images/image2.png"
+        },
+        {
+          "id": "8tHV25ZkougL",
+          "name": "yang",
+          "filePath": "plasmic/twitter/images/yang.jpeg"
+        },
+        {
+          "id": "Tc4PXtjfK5bT",
+          "name": "fist",
+          "filePath": "plasmic/twitter/images/fist.jpeg"
+        },
+        {
+          "id": "O71voxlFBHL4",
+          "name": "someone",
+          "filePath": "plasmic/twitter/images/someone.jpeg"
+        },
+        {
+          "id": "sD1CQyhEiB09",
+          "name": "image 3",
+          "filePath": "plasmic/twitter/images/image3.png"
+        },
+        {
+          "id": "zuqK5Tne8Cuc",
+          "name": "image 4",
+          "filePath": "plasmic/twitter/images/image4.png"
+        },
+        {
+          "id": "CyUoQFQXiRyL",
+          "name": "image 5",
+          "filePath": "plasmic/twitter/images/image5.png"
+        },
+        {
+          "id": "zDFb_rojPdMu",
+          "name": "image 6",
+          "filePath": "plasmic/twitter/images/image6.png"
+        },
+        {
+          "id": "yBoEbRz6oGiu",
+          "name": "image 7",
+          "filePath": "plasmic/twitter/images/image7.png"
+        },
+        {
+          "id": "DWAxYfIwgAj5",
+          "name": "image 8",
+          "filePath": "plasmic/twitter/images/image8.png"
+        }
+      ],
+      "codeComponents": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "Mpz4IKvZIe9W",
+        "name": "Screen",
+        "projectId": "hMHVnEgKCHqmbs9i49R9rv",
+        "contextFilePath": "plasmic/twitter/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.164",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.164/dist/plasmic.schema.json"
+}

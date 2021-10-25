@@ -139,6 +139,10 @@ function PlasmicFeed__RenderFunc(props: {
                       alt={""}
                       className={classNames(sty.img__hqaNz)}
                       displayHeight={"30px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"none" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
                       displayWidth={"30px" as const}
                       src={{
                         src: image2K8Lg82AeygQu,
@@ -526,6 +530,10 @@ function PlasmicFeed__RenderFunc(props: {
                       alt={""}
                       className={classNames(sty.img___27M0T)}
                       displayHeight={"49px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"none" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
                       displayWidth={"49px" as const}
                       src={{
                         src: image4ZuqK5Tne8Cuc,
@@ -561,6 +569,10 @@ function PlasmicFeed__RenderFunc(props: {
                         alt={""}
                         className={classNames(sty.img__vyHo)}
                         displayHeight={"140px" as const}
+                        displayMaxHeight={"none" as const}
+                        displayMaxWidth={"none" as const}
+                        displayMinHeight={"0" as const}
+                        displayMinWidth={"0" as const}
                         displayWidth={"140px" as const}
                         src={{
                           src: image5CyUoQfqXiRyL,
@@ -631,6 +643,10 @@ function PlasmicFeed__RenderFunc(props: {
                       alt={""}
                       className={classNames(sty.img__ptC0O)}
                       displayHeight={"49px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"none" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
                       displayWidth={"49px" as const}
                       src={{
                         src: image7YBoEbRz6OGiu,
@@ -659,6 +675,10 @@ function PlasmicFeed__RenderFunc(props: {
                       alt={""}
                       className={classNames(sty.img__jDdhA)}
                       displayHeight={"49px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"none" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
                       displayWidth={"49px" as const}
                       src={{
                         src: image4ZuqK5Tne8Cuc,
@@ -694,6 +714,10 @@ function PlasmicFeed__RenderFunc(props: {
                         alt={""}
                         className={classNames(sty.img__dFr9X)}
                         displayHeight={"140px" as const}
+                        displayMaxHeight={"none" as const}
+                        displayMaxWidth={"none" as const}
+                        displayMinHeight={"0" as const}
+                        displayMinWidth={"0" as const}
                         displayWidth={"140px" as const}
                         src={{
                           src: image5CyUoQfqXiRyL,
@@ -764,6 +788,10 @@ function PlasmicFeed__RenderFunc(props: {
                       alt={""}
                       className={classNames(sty.img___3KrjV)}
                       displayHeight={"49px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"none" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
                       displayWidth={"49px" as const}
                       src={{
                         src: image7YBoEbRz6OGiu,
@@ -879,6 +907,10 @@ function PlasmicFeed__RenderFunc(props: {
                           alt={""}
                           className={classNames(sty.img__flZgq)}
                           displayHeight={"49px" as const}
+                          displayMaxHeight={"none" as const}
+                          displayMaxWidth={"none" as const}
+                          displayMinHeight={"0" as const}
+                          displayMinWidth={"0" as const}
                           displayWidth={"49px" as const}
                           src={{
                             src: image6ZDFbRojPdMu,
@@ -901,6 +933,10 @@ function PlasmicFeed__RenderFunc(props: {
                           alt={""}
                           className={classNames(sty.img__dhnpj)}
                           displayHeight={"49px" as const}
+                          displayMaxHeight={"none" as const}
+                          displayMaxWidth={"none" as const}
+                          displayMinHeight={"0" as const}
+                          displayMinWidth={"0" as const}
                           displayWidth={"49px" as const}
                           src={{
                             src: image8DwAxYfIwgAj5,
@@ -1051,6 +1087,10 @@ function PlasmicFeed__RenderFunc(props: {
                 alt={""}
                 className={classNames(sty.img__p5B1Q)}
                 displayHeight={"731px" as const}
+                displayMaxHeight={"none" as const}
+                displayMaxWidth={"none" as const}
+                displayMinHeight={"0" as const}
+                displayMinWidth={"0" as const}
                 displayWidth={"411px" as const}
                 src={{
                   src: imageEv9XLgxOEr9M,

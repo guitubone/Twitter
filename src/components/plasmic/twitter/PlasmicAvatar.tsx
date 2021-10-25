@@ -91,6 +91,10 @@ function PlasmicAvatar__RenderFunc(props: {
             alt={""}
             className={classNames(sty.img__cGNk8)}
             displayHeight={"49px" as const}
+            displayMaxHeight={"none" as const}
+            displayMaxWidth={"none" as const}
+            displayMinHeight={"0" as const}
+            displayMinWidth={"0" as const}
             displayWidth={"49px" as const}
             src={{
               src: image2K8Lg82AeygQu,
